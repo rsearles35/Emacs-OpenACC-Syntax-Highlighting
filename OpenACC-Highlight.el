@@ -220,4 +220,4 @@
   
 )  ;;;;;; of OpenACC highlighting 
 
-(provide 'openacc-syntax-highlighting-c)
+(provide 'openacc-syntax-highlighting)
