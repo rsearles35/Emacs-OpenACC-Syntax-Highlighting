@@ -67,6 +67,7 @@
 					     "copyout"
 					     "copy"
 					     "create"
+					     "pcopy"
 					     "present_or_copyin"
 					     "present_or_copyout"
 					     "present_or_copy"
